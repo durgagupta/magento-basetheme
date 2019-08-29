@@ -1,0 +1,25 @@
+{
+  "name": "Ace/default",
+  "description": "Magento 2 Base Theme",
+  "type": "magento2-theme",
+  "version": "1.0.0",
+  "require": {
+    "magento/theme-frontend-luma": "*",
+    "magento/framework": "*"
+  },
+  "authors": [
+    {
+      "name": "dsgupta",
+      "email": "dsguptas@gmail.com",
+      "homepage": "http://www.durgagupta.com"
+    }
+  ],
+  "license": [
+    "OSL-3.0"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
