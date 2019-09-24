@@ -1,8 +1,8 @@
 {
-  "name": "Ace/default",
+  "name": "ace/default",
   "description": "Magento 2 Base Theme",
   "type": "magento2-theme",
-  "version": "1.0.0",
+  "version": "master",
   "require": {
     "magento/theme-frontend-luma": "*",
     "magento/framework": "*"
